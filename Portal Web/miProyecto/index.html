@@ -559,7 +559,8 @@
         
     </div>
 </section>
-
+<!--Fin Reservas -->
+<!-- JScripts Reservas  -->
 <script>
     document.addEventListener('DOMContentLoaded', function() {
     // Inicializaciones y listeners aquí
@@ -574,6 +575,7 @@
     selectCapacity.addEventListener('change', function() {
         verificarCapacidadMesas(this.value);
     });
+
     // Verificar Disponibilidad Horas Disponibles
     function verificarDisponibilidad(fecha) {
     fetch(`/verificar-disponibilidad?fecha=${fecha}`)
@@ -642,10 +644,69 @@
             });
 }
 
-// Obtener Mesas Disponibles para reservas
+// Obtener Mesas Disponibles para reservas - REALIZAR RESERVA - CANCELAR RESERVA
 document.addEventListener('DOMContentLoaded', function() {
     const selectTable = document.getElementById('tableNumber');
+    // REALIZAR RESERVA CON ALERTA
+    var form = document.querySelector('form[name="contact-us"]');
+    form.addEventListener('submit', function(event) {
+        event.preventDefault(); // Detiene el envío normal del formulario
 
+        var formData = new FormData(form);
+        var objectData = {};
+        formData.forEach(function(value, key) {
+            objectData[key] = value;
+        });
+
+        fetch('/realizar-reserva', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(objectData),
+        })
+        .then(response => response.json())
+        .then(data => {
+            // Muestra una alerta con el mensaje y el código de reserva
+            alert(data.message + " Código de reserva: " + data.codigo);
+            // Aquí podrías redirigir a otra página o limpiar el formulario si así lo deseas
+            form.reset(); // Esto limpia el formulario después de la reserva
+        })
+        .catch((error) => {
+            // Muestra una alerta de error
+            alert("Error al realizar la reserva: " + error.message);
+        });
+    });
+    // FIN REALIZAR RESERVA CON ALERTA
+    // CANCELAR RESERVA CON ALERTA
+    // Asegúrate de que este código esté dentro de un 'DOMContentLoaded' o después de que el formulario esté definido en tu HTML
+    var cancelForm = document.querySelector('form[name="cancel-reservation"]');
+    cancelForm.addEventListener('submit', function(event) {
+        event.preventDefault(); // Previene el comportamiento por defecto del formulario
+
+        var formData = new FormData(cancelForm);
+        var objectData = {};
+        formData.forEach(function(value, key) {
+            objectData[key] = value;
+        });
+
+        fetch('/cancelar-reserva', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(objectData),
+        })
+        .then(response => response.json())
+        .then(data => {
+            alert(data.message); // Muestra una alerta con el mensaje de la respuesta
+            cancelForm.reset(); // Opcional: limpia el formulario
+        })
+        .catch((error) => {
+            alert("Error al cancelar la reserva: " + error.message);
+        });
+    });
+    // FIN CANCELAR RESERVA CON ALERTA
     // Esta función obtiene las mesas disponibles y actualiza el select.
     function obtenerMesasDisponibles() {
         fetch('/obtener-mesas-disponibles')
@@ -666,8 +727,10 @@ document.addEventListener('DOMContentLoaded', function() {
     // Llamar a la función al cargar la página.
     obtenerMesasDisponibles();
 });
-</script> 
 
+
+</script> 
+<!-- Fin JScripts Reservas  -->
 <!-- Cancelar Reserva -->
 <section id="gtco-cancel-reservation" class="bg-fixed bg-white section-padding overlay" style="background-image: url(img/reservaimg.jpg);">
     <div class="container">
@@ -684,9 +747,9 @@ document.addEventListener('DOMContentLoaded', function() {
                             </h2>
                         </div>
                         <div class="form-group">
-                            <label for="idReserva">ID de Reserva</label>
-                            <input type="text" class="form-control" id="idReserva" name="idReserva" placeholder="Ingrese el ID de Reserva">
-                        </div>
+                            <label for="codigoReserva">Código de Reserva</label>
+                            <input type="text" class="form-control" id="codigoReserva" name="codigoReserva" placeholder="Ingrese el Código de Reserva" required>
+                        </div>                        
                         <div class="text-center">
                             <button class="btn btn-primary btn-shadow btn-lg" type="submit" name="submit">Cancelar Reserva</button>
                         </div>
@@ -696,9 +759,9 @@ document.addEventListener('DOMContentLoaded', function() {
         </div>
     </div>
 </section>
+<!-- Fin Cancelar Reserva -->
 
-
-<!-- Reservas// -->
+<!-- Fin Reservas// -->
 
          	<div class="col-md-12 d-flex align-items-center">
          		<p class="mx-auto text-center mb-0">Copyright 2023. All Right Reserved Group 4.</p>
@@ -723,7 +786,6 @@ document.addEventListener('DOMContentLoaded', function() {
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
     <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 
-    <!-- Agrega las bibliotecas de flatpickr en la sección head -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
     <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 

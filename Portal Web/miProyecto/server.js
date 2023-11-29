@@ -159,17 +159,19 @@ app.post('/realizar-reserva', async (req, res) => {
 });
 
 
-// Cancelar Reserva
+// CANCELAR RESERVA
 app.post('/cancelar-reserva', async (req, res) => {
-    const idReserva = req.body.idReserva; // Supongamos que el ID de reserva se envía como parte del formulario
-    
-    // Validar el ID de reserva si es necesario
-    
+    const codigoReserva = req.body.codigoReserva; 
+        
     try {
         let conexion = await pool.getConnection();
-        const updateQuery = 'UPDATE RESERVA SET ESTADO_RESERVA = :nuevoEstado WHERE ID_RESERVA = :idReserva';
-        await conexion.execute(updateQuery, { nuevoEstado: 'Cancelado', idReserva });
-        conexion.commit(); // Confirmar la transacción
+        const updateQuery = 'UPDATE RESERVA SET ESTADO_RESERVA = :nuevoEstado WHERE CODIGO = :codigoReserva AND ESTADO_RESERVA = \'Confirmada\'';
+        const resultado = await conexion.execute(updateQuery, { nuevoEstado: 'Cancelado', codigoReserva: codigoReserva }, { autoCommit: true });
+        
+        if (resultado.rowsAffected === 0) {
+            throw new Error('No se encontró la reserva o ya estaba cancelada.');
+        }
+        
         conexion.close();
         res.status(200).json({ message: 'Reserva cancelada con éxito.' });
     } catch (err) {
@@ -185,7 +187,7 @@ app.get('/verificar-disponibilidad', async (req, res) => {
         conexion = await pool.getConnection();
         console.log('Fecha recibida:', req.query.fecha); // Esto te mostrará la fecha recibida en el servidor
         const result = await conexion.execute(
-            `SELECT HORA FROM RESERVA WHERE FECHA = TO_DATE(:fecha, 'YYYY-MM-DD') AND ESTADO_RESERVA = 'Disponible' ORDER BY HORA`,
+            `SELECT DISTINCT HORA FROM RESERVA WHERE FECHA = TO_DATE(:fecha, 'YYYY-MM-DD') AND ESTADO_RESERVA = 'Disponible' ORDER BY HORA`,
             { fecha: req.query.fecha }
         );
         const horasDisponibles = result.rows.map(row => row[0]); // Asegúrate de seleccionar el primer elemento si es un array
@@ -255,7 +257,7 @@ app.get('/obtener-mesas-disponibles', async (req, res) => {
     try {
         conexion = await pool.getConnection();
         const result = await conexion.execute(
-            `SELECT NUM_MESA FROM MESA WHERE ESTADO = 'Disponible para reservas' ORDER BY NUM_MESA ASC`,
+            `SELECT DISTINCT NUM_MESA FROM RESERVA WHERE ESTADO_RESERVA = 'Disponible' ORDER BY NUM_MESA ASC`,
             [], // No hay parámetros en esta consulta
             { outFormat: oracledb.OUT_FORMAT_OBJECT } // Asegura que el resultado sea un objeto
         );
