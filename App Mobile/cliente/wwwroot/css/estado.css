@@ -1,0 +1,54 @@
+﻿
+.progress-bar {
+    background-color: #4caf50;
+    height: 20px;
+    border-radius: 2px;
+    transition: width 0.4s ease, background-color 0.3s ease;
+    transform: translateX(-50%);
+    position: relative;
+    left: 50%;
+}
+
+    .progress-bar:hover {
+        background-color: #45a249; 
+    }
+
+
+.estado-pedido h3 {
+    font-size: 1.4rem; 
+    margin-top: 15px; 
+    font-family: 'Arial', sans-serif; 
+}
+
+.estado-pedido p {
+    font-size: 1.2rem; 
+    margin-top: 10px; 
+}
+
+
+
+
+.estado-pedido-container {
+    border: 2px solid #4caf50; 
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    background-color: #f7f7f7; 
+}
+
+.pedido-items li {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    font-size: 1rem; 
+    transition: opacity 0.3s ease; 
+}
+
+    .pedido-items li:hover {
+        opacity: 0.8;
+    }
+
+

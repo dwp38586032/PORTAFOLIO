@@ -1,0 +1,563 @@
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Core.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Identity.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.Data.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Permissions.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Core.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Identity.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.Data.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Permissions.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Administrador.resources
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\berna\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Core.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Identity.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.Data.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Permissions.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Core.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Identity.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.Data.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Permissions.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Administrador.resources
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\berna\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Core.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Identity.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.Data.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Permissions.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Core.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Identity.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.Data.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Permissions.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Administrador.resources
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\berna\Documents\portafp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Core.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Identity.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.Data.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Permissions.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Core.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Identity.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.Data.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Permissions.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Administrador.resources
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\javie\OneDrive\Escritorio\Iteracion 2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Core.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Identity.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.Data.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Permissions.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Core.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Identity.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.Data.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Permissions.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Administrador.resources
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Kyor\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Core.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Identity.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.Data.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Permissions.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Core.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Azure.Identity.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Memory.Data.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Permissions.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Administrador.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3(EN PROCESO)\App de escritorio\Admin\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

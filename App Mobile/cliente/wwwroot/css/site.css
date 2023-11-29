@@ -1,0 +1,129 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+
+
+/* Provide sufficient contrast against white background */
+a {
+    color: #6f42c1;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+/* Estilos específicos para la navbar */
+.navbar {
+    background-color: #6f42c1; /* Un tono de morado */
+}
+
+/* Cambiar el color de los enlaces para que tengan un buen contraste con el morado */
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+/* Cambiar el color del texto de la marca de la navbar para que tenga un buen contraste */
+.navbar-dark .navbar-brand {
+    color: white;
+}
+
+/* Cambiar el color del botón de la navbar en dispositivos móviles */
+.navbar-dark .navbar-toggler {
+    color: white;
+    border-color: rgba(255,255,255,0.1); /* Apenas visible, ajusta como necesario */
+}
+
+/* Cambiar el color de fondo del elemento de la navbar activo */
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .show > .nav-link {
+    background-color: #4e2a84; /* Un tono de morado más oscuro para el elemento activo */
+}
+
+.product-card {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 15px;
+    text-align: center;
+    width: 200px; /* Ajusta según tu necesidad */
+    margin: auto;
+}
+
+.product-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.product-info {
+    margin-top: 10px;
+}
+
+.product-name {
+    font-size: 1.2em;
+    margin: 0;
+}
+
+.product-price {
+    font-size: 1.5em;
+    color: #888;
+    margin-top: 5px;
+}
