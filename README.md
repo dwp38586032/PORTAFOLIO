@@ -1,6 +1,6 @@
-# PORTAFOLIO
+# PORTAFOLIO DE TITULO 2023
 
-CONTEXTO
+### CONTEXTO
 El restaurante siglo XXI, se encuentra en una zona ampliamente turística del país, atiende desde 
 hace 50 años por sus dueños, quienes poco a poco fueron construyendo el local hasta hacerse 
 conocido por su comida casera.
@@ -16,3 +16,5 @@ día causan que los clientes los prefieran.
 Usted y su grupo ha sido contratado para realizar un proyecto revolucionario, que no solo permita 
 ordenar administrativamente la información del restaurante, sino que ejecute procesos que 
 optimicen la operación diaria con los clientes, la cocina y los administrativos
+
+### Grupo 4: Javier Reyes, Joaquin Aravena, Jorge Perez
