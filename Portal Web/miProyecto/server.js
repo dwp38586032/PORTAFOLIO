@@ -10,12 +10,12 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 let pool;
-
+//CONFIGURACIÓN ORALCE
 async function iniciarConexion() {
     pool = await oracledb.createPool({
         user: 'C##Admin_restaurantXXI',
         password: 'oracle',
-        connectString: 'localhost/XE' // Esto dependerá de tu configuración
+        connectString: 'localhost/XE' 
     });
 }
 
@@ -35,7 +35,7 @@ const transporter = nodemailer.createTransport({
     }
 });
 
-// Ejemplo de endpoint para obtener datos
+// Endpoint para obtener datos
 app.get('/obtener-datos', async (req, res) => {
     let conexion;
     try {
@@ -98,9 +98,9 @@ app.post('/realizar-reserva', async (req, res) => {
              `;
 
              const resultadoCodigo = await conexion.execute(selectCodigoSql, {
-                tableNumber,         // El número de mesa seleccionado por el usuario
-                fecha: formattedDate, // La fecha seleccionada por el usuario, en formato 'DD/MM/YYYY'
-                hora: formattedTime   // La hora seleccionada por el usuario, en formato 'HH:MM'
+                tableNumber,         
+                fecha: formattedDate, 
+                hora: formattedTime   
             }, { outFormat: oracledb.OUT_FORMAT_OBJECT });
             
         
@@ -123,7 +123,7 @@ app.post('/realizar-reserva', async (req, res) => {
         // Realizar la actualización con los datos necesarios
         const updateResult = await conexion.execute(updateReservaSql, {
             //codigo: codigoReserva,
-            tableNumber, // Asegúrate de que estás usando la ID de la mesa correcta
+            tableNumber, 
             fecha: formattedDate,
             hora: formattedTime
         }, { autoCommit: false });
@@ -185,13 +185,13 @@ app.get('/verificar-disponibilidad', async (req, res) => {
     let conexion;
     try {
         conexion = await pool.getConnection();
-        console.log('Fecha recibida:', req.query.fecha); // Esto te mostrará la fecha recibida en el servidor
+        console.log('Fecha recibida:', req.query.fecha); // Esto mostrará la fecha recibida en el servidor
         const result = await conexion.execute(
             `SELECT DISTINCT HORA FROM RESERVA WHERE FECHA = TO_DATE(:fecha, 'YYYY-MM-DD') AND ESTADO_RESERVA = 'Disponible' ORDER BY HORA`,
             { fecha: req.query.fecha }
         );
-        const horasDisponibles = result.rows.map(row => row[0]); // Asegúrate de seleccionar el primer elemento si es un array
-        console.log('Horas disponibles:', horasDisponibles); // Esto imprimirá las horas disponibles en el servidor
+        const horasDisponibles = result.rows.map(row => row[0]); 
+        console.log('Horas disponibles:', horasDisponibles); // imprimir las horas disponibles en el servidor
         res.json(horasDisponibles); // Envía solo las horas disponibles
     } catch (err) {
         console.error(err);

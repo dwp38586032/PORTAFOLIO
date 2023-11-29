@@ -563,7 +563,6 @@
 <!-- JScripts Reservas  -->
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-    // Inicializaciones y listeners aquí
     obtenerCapacidadesMesas(); // Llama a esta función al cargar la página
 
     var datepicker = document.getElementById('datepicker');
@@ -581,7 +580,7 @@
     fetch(`/verificar-disponibilidad?fecha=${fecha}`)
         .then(response => response.json())
         .then(horasDisponibles => {
-            console.log('Horas disponibles:', horasDisponibles); // Esto debería mostrar un array de horas.
+            console.log('Horas disponibles:', horasDisponibles); // mostrar un array de horas.
             actualizarSelectHoras(horasDisponibles);
         })
         .catch(error => {
@@ -667,19 +666,17 @@ document.addEventListener('DOMContentLoaded', function() {
         })
         .then(response => response.json())
         .then(data => {
-            // Muestra una alerta con el mensaje y el código de reserva
+            // alerta con el mensaje y el código de reserva
             alert(data.message + " Código de reserva: " + data.codigo);
-            // Aquí podrías redirigir a otra página o limpiar el formulario si así lo deseas
             form.reset(); // Esto limpia el formulario después de la reserva
         })
         .catch((error) => {
-            // Muestra una alerta de error
+            // alerta de error
             alert("Error al realizar la reserva: " + error.message);
         });
     });
     // FIN REALIZAR RESERVA CON ALERTA
     // CANCELAR RESERVA CON ALERTA
-    // Asegúrate de que este código esté dentro de un 'DOMContentLoaded' o después de que el formulario esté definido en tu HTML
     var cancelForm = document.querySelector('form[name="cancel-reservation"]');
     cancelForm.addEventListener('submit', function(event) {
         event.preventDefault(); // Previene el comportamiento por defecto del formulario
@@ -699,8 +696,8 @@ document.addEventListener('DOMContentLoaded', function() {
         })
         .then(response => response.json())
         .then(data => {
-            alert(data.message); // Muestra una alerta con el mensaje de la respuesta
-            cancelForm.reset(); // Opcional: limpia el formulario
+            alert(data.message); // alerta con el mensaje de la respuesta
+            cancelForm.reset();
         })
         .catch((error) => {
             alert("Error al cancelar la reserva: " + error.message);
