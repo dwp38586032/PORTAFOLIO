@@ -1,0 +1,38 @@
+﻿
+
+<nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand" href="#">Mi Aplicación</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Inicio <span class="sr-only">(current)</span></a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+@model IEnumerable<PlatoModel>
+
+@if (Model != null && Model.Any())
+{
+    foreach (var plato in Model)
+    {
+        <div class="product-card">
+            <img src="ruta-a-imagen.jpg" alt="@plato.Nombre" class="product-image">
+            <div>
+                <h3>@plato.Nombre</h3>
+                <p>@plato.Precio.ToString("C")</p>
+                <p>Tiempo de preparación: @plato.TiempoPreparacion minutos</p>
+                <button type="button" class="btn btn-primary order-button"
+                data-product-id="3" 
+                data-product-name="@plato.Nombre"
+                data-price="@plato.Precio">
+                    Pedir
+                </button>
+            </div>
+        </div>
+    }
+}

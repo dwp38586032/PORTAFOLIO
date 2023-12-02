@@ -1,0 +1,197 @@
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.exe.config
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.exe
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.pdb
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.Properties.Resources.resources
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.GenerateResource.cache
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.exe
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.pdb
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.HomeForm.resources
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.ReservaForm.resources
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\System.Buffers.dll
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\System.Memory.dll
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Json.dll
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\System.ValueTuple.dll
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\System.Buffers.xml
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\System.Memory.xml
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Json.xml
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\System.ValueTuple.xml
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.CopyComplete
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\bin\Debug\Oracle.DataAccess.dll
+C:\Users\javie\source\repos\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.SeleccionMesa.resources
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.exe.config
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.exe
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.pdb
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\System.Buffers.dll
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\System.Memory.dll
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Json.dll
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\System.ValueTuple.dll
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\System.Buffers.xml
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\System.Memory.xml
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Json.xml
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\bin\Debug\System.ValueTuple.xml
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.AssemblyReference.cache
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.SeleccionMesa.resources
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.HomeForm.resources
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.Properties.Resources.resources
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.ReservaForm.resources
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.GenerateResource.cache
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.CopyComplete
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.exe
+C:\Users\Kyor\Desktop\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.pdb
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.exe.config
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.exe
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.pdb
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\System.Buffers.dll
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\System.Memory.dll
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Json.dll
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\System.ValueTuple.dll
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\System.Buffers.xml
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\System.Memory.xml
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Json.xml
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\bin\Debug\System.ValueTuple.xml
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.AssemblyReference.cache
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.SeleccionMesa.resources
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.HomeForm.resources
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.Properties.Resources.resources
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.ReservaForm.resources
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.GenerateResource.cache
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.CopyComplete
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.exe
+C:\Users\Kyor\Desktop\Portafolio\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.pdb
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.exe.config
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.exe
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.pdb
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\Oracle.DataAccess.dll
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\System.Buffers.dll
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\System.Memory.dll
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Json.dll
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\System.ValueTuple.dll
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\System.Buffers.xml
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\System.Memory.xml
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Json.xml
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\bin\Debug\System.ValueTuple.xml
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.AssemblyReference.cache
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.SeleccionMesa.resources
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.HomeForm.resources
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.Properties.Resources.resources
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.ReservaForm.resources
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.GenerateResource.cache
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.CopyComplete
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.exe
+C:\Users\javie\Downloads\totem123as\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.pdb
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.exe.config
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.exe
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.pdb
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\Oracle.DataAccess.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\System.Buffers.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\System.Memory.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Json.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\System.ValueTuple.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\System.Buffers.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\System.Memory.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Json.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\bin\Debug\System.ValueTuple.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.SeleccionMesa.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.HomeForm.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.Properties.Resources.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.ReservaForm.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.GenerateResource.cache
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.CopyComplete
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.exe
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.pdb
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.SeleccionMesa.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.HomeForm.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.Properties.Resources.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.ReservaForm.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.GenerateResource.cache
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.exe
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.pdb
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.exe.config
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.exe
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\TotemRestaurant.pdb
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\Oracle.DataAccess.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\System.Buffers.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\System.Memory.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Json.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\System.ValueTuple.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\System.Buffers.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\System.Memory.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\System.Text.Json.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\bin\Debug\System.ValueTuple.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\TotemRestaurant\TotemRestaurant\obj\Debug\TotemRestaurant.csproj.CopyComplete

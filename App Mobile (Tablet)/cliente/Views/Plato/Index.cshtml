@@ -1,0 +1,102 @@
+﻿@{
+    ViewData["Title"] = "Menú de Platos";
+}
+
+<head>
+    <!-- ... Tus otras referencias a estilos y metadatos ... -->
+    <link rel="stylesheet" href="~/css/platos.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+
+</head>
+
+<div class="page-container">
+    <header>
+        <h1>@ViewData["Title"]</h1>
+        <div class="button-container">
+           
+            <button id="estado-pedido" class="btn btn-info">Ver Estado del Pedido</button>
+            <button id="clear-order" class="btn btn-danger">Borrar Orden</button>
+        </div>
+    </header>
+
+    <div class="reservation-container">
+        <input type="text" id="codigo-reserva" placeholder="Código de Reserva" />
+        <button id="verificar-reserva" class="btn btn-primary">Verificar Reserva</button>
+    </div>
+
+    <div id="cart-container" class="cart-container">
+        <h3>Carrito</h3>
+        <div id="cart-items" class="cart-items">
+            <!-- Los elementos del carrito se añadirán aquí dinámicamente -->
+        </div>
+        <p>Total: <span id="cart-total" class="cart-total">0</span></p>
+        <button id="checkout-button" class="btn btn-success">Pedir</button>
+    </div>
+
+<div class="platos-container">
+        @foreach (var plato in Model)
+        {
+            <div class="plato-card">
+                <div class="image-container">
+                    <img src="@plato.Imagen" alt="Imagen de @plato.Nombre" />
+                </div>
+                <div class="plato-info">
+                    <h3>@plato.Nombre</h3>
+                    <div class="price-time-container">
+                        <div class="price-label">Precio:</div>
+                        <div class="price">@plato.Precio.ToString("C")</div>
+                    </div>
+                    <div class="price-time-container">
+                        <div class="preparation-label">Tiempo de Preparación:</div>
+                        <div class="preparation-time">@plato.TiempoPreparacion</div>
+                    </div>
+                    <button class="btn btn-primary add-to-cart-button" data-id="@plato.IdPlato" data-nombre="@plato.Nombre" data-precio="@plato.Precio">
+                        Añadir al carrito
+                    </button>
+                </div>
+            </div>
+        }
+</div>
+
+
+
+    <!-- Agrega un icono para representar el carrito en la esquina superior derecha -->
+    <div class="cart-icon" id="cart-icon">
+        <i class="fa fa-shopping-cart"></i>
+    </div>
+</div>
+
+@section Scripts {
+        <script src="~/js/cart.js"></script>
+    <script>
+        const cartIcon = document.getElementById('cart-icon');
+        const cartContainer = document.getElementById('cart-container');
+
+        cartIcon.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth' 
+            });
+        });
+                        cartIcon.addEventListener('click', () => {
+                    if (cartContainer.style.display === 'none' || cartContainer.style.display === '') {
+                        cartContainer.style.display = 'block';
+                    } else {
+                        cartContainer.style.display = 'none';
+                    }
+                });
+    </script>
+        <script>
+        const addToCartButtons = document.querySelectorAll('.add-to-cart-button');
+
+        addToCartButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                button.classList.add('clicked');
+
+                setTimeout(() => {
+                    button.classList.remove('clicked');
+                }, 300);
+            });
+        });
+    </script>
+}

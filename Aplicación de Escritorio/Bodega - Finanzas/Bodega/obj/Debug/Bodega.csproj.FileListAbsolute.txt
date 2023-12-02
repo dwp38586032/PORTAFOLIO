@@ -1,0 +1,225 @@
+C:\Users\berna\source\repos\Bodega\Bodega\obj\Debug\Bodega.csproj.AssemblyReference.cache
+C:\Users\berna\source\repos\Bodega\Bodega\obj\Debug\Bodega.Properties.Resources.resources
+C:\Users\berna\source\repos\Bodega\Bodega\obj\Debug\Bodega.csproj.GenerateResource.cache
+C:\Users\berna\source\repos\Bodega\Bodega\obj\Debug\Bodega.csproj.CoreCompileInputs.cache
+C:\Users\berna\source\repos\Bodega\Bodega\bin\Debug\Bodega.exe.config
+C:\Users\berna\source\repos\Bodega\Bodega\bin\Debug\Bodega.exe
+C:\Users\berna\source\repos\Bodega\Bodega\bin\Debug\Bodega.pdb
+C:\Users\berna\source\repos\Bodega\Bodega\bin\Debug\Oracle.DataAccess.dll
+C:\Users\berna\source\repos\Bodega\Bodega\obj\Debug\Bodega.csproj.CopyComplete
+C:\Users\berna\source\repos\Bodega\Bodega\obj\Debug\Bodega.exe
+C:\Users\berna\source\repos\Bodega\Bodega\obj\Debug\Bodega.pdb
+C:\Users\berna\source\repos\Bodega\Bodega\obj\Debug\Bodega.Bodeguero.resources
+C:\Users\berna\source\repos\Bodega\Bodega\obj\Debug\Bodega.Form1.resources
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\bin\Debug\Bodega.exe.config
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\bin\Debug\Bodega.exe
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\bin\Debug\Bodega.pdb
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\bin\Debug\Oracle.DataAccess.dll
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\bin\Debug\System.Memory.dll
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\bin\Debug\System.Text.Json.dll
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\bin\Debug\System.Buffers.dll
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\bin\Debug\System.ValueTuple.dll
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\obj\Debug\Bodega.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\obj\Debug\Bodega.csproj.SuggestedBindingRedirects.cache
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\obj\Debug\Bodega.exe.config
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\obj\Debug\Bodega.Bodeguero.resources
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\obj\Debug\Bodega.Form1.resources
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\obj\Debug\Bodega.Properties.Resources.resources
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\obj\Debug\Bodega.csproj.GenerateResource.cache
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\obj\Debug\Bodega.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\obj\Debug\Bodega.csproj.CopyComplete
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\obj\Debug\Bodega.exe
+C:\Users\berna\Desktop\Vista Bodega\Bodega\Bodega\obj\Debug\Bodega.pdb
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\bin\Debug\Bodega.exe.config
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\bin\Debug\Bodega.exe
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\bin\Debug\Bodega.pdb
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\bin\Debug\System.Buffers.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\bin\Debug\System.ValueTuple.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\obj\Debug\Bodega.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\obj\Debug\Bodega.exe.config
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\obj\Debug\Bodega.Bodeguero.resources
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\obj\Debug\Bodega.Form1.resources
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\obj\Debug\Bodega.Properties.Resources.resources
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\obj\Debug\Bodega.csproj.GenerateResource.cache
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\obj\Debug\Bodega.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\obj\Debug\Bodega.csproj.CopyComplete
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\obj\Debug\Bodega.exe
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\obj\Debug\Bodega.pdb
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\Bodega\Bodega\bin\Debug\Oracle.DataAccess.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\bin\Debug\Bodega.exe.config
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\bin\Debug\Bodega.exe
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\bin\Debug\Bodega.pdb
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\bin\Debug\System.Memory.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\bin\Debug\System.Text.Json.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\bin\Debug\System.Buffers.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\bin\Debug\System.ValueTuple.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\obj\Debug\Bodega.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\obj\Debug\Bodega.csproj.SuggestedBindingRedirects.cache
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\obj\Debug\Bodega.exe.config
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\obj\Debug\Bodega.Bodeguero.resources
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\obj\Debug\Bodega.Finanzas.resources
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\obj\Debug\Bodega.Form1.resources
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\obj\Debug\Bodega.Properties.Resources.resources
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\obj\Debug\Bodega.csproj.GenerateResource.cache
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\obj\Debug\Bodega.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\obj\Debug\Bodega.csproj.CopyComplete
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\obj\Debug\Bodega.exe
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\JUEVES 21 SEPT\asdasdsad\Bodega\Bodega\obj\Debug\Bodega.pdb
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\bin\Debug\Bodega.exe.config
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\bin\Debug\Bodega.exe
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\bin\Debug\Bodega.pdb
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\bin\Debug\System.Buffers.dll
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\bin\Debug\System.ValueTuple.dll
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\obj\Debug\Bodega.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\obj\Debug\Bodega.exe.config
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\obj\Debug\Bodega.Bodeguero.resources
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\obj\Debug\Bodega.Finanzas.resources
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\obj\Debug\Bodega.Form1.resources
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\obj\Debug\Bodega.Properties.Resources.resources
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\obj\Debug\Bodega.csproj.GenerateResource.cache
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\obj\Debug\Bodega.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\obj\Debug\Bodega.csproj.CopyComplete
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\obj\Debug\Bodega.exe
+C:\Users\berna\Desktop\hnjhhj\Bodega\Bodega\obj\Debug\Bodega.pdb
+C:\Users\berna\Desktop\Bodega\Bodega\bin\Debug\Bodega.exe.config
+C:\Users\berna\Desktop\Bodega\Bodega\bin\Debug\Bodega.exe
+C:\Users\berna\Desktop\Bodega\Bodega\bin\Debug\Bodega.pdb
+C:\Users\berna\Desktop\Bodega\Bodega\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\berna\Desktop\Bodega\Bodega\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\berna\Desktop\Bodega\Bodega\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\berna\Desktop\Bodega\Bodega\bin\Debug\System.Buffers.dll
+C:\Users\berna\Desktop\Bodega\Bodega\bin\Debug\System.ValueTuple.dll
+C:\Users\berna\Desktop\Bodega\Bodega\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\berna\Desktop\Bodega\Bodega\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\berna\Desktop\Bodega\Bodega\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\berna\Desktop\Bodega\Bodega\obj\Debug\Bodega.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\Bodega\Bodega\obj\Debug\Bodega.exe.config
+C:\Users\berna\Desktop\Bodega\Bodega\obj\Debug\Bodega.Bodeguero.resources
+C:\Users\berna\Desktop\Bodega\Bodega\obj\Debug\Bodega.Finanzas.resources
+C:\Users\berna\Desktop\Bodega\Bodega\obj\Debug\Bodega.Form1.resources
+C:\Users\berna\Desktop\Bodega\Bodega\obj\Debug\Bodega.Properties.Resources.resources
+C:\Users\berna\Desktop\Bodega\Bodega\obj\Debug\Bodega.csproj.GenerateResource.cache
+C:\Users\berna\Desktop\Bodega\Bodega\obj\Debug\Bodega.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\Bodega\Bodega\obj\Debug\Bodega.csproj.CopyComplete
+C:\Users\berna\Desktop\Bodega\Bodega\obj\Debug\Bodega.exe
+C:\Users\berna\Desktop\Bodega\Bodega\obj\Debug\Bodega.pdb
+C:\Users\berna\Desktop\Bodega\Bodega\bin\Debug\System.Memory.dll
+C:\Users\berna\Desktop\Bodega\Bodega\bin\Debug\System.Text.Json.dll
+C:\Users\berna\Desktop\Bodega\Bodega\obj\Debug\Bodega.csproj.SuggestedBindingRedirects.cache
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\bin\Debug\Bodega.exe.config
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\bin\Debug\Bodega.exe
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\bin\Debug\Bodega.pdb
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\bin\Debug\itextsharp.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\bin\Debug\System.Buffers.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\bin\Debug\System.ValueTuple.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\bin\Debug\itextsharp.xml
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\obj\Debug\Bodega.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\obj\Debug\Bodega.exe.config
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\obj\Debug\Bodega.Bodeguero.resources
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\obj\Debug\Bodega.Finanzas.resources
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\obj\Debug\Bodega.Form1.resources
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\obj\Debug\Bodega.Properties.Resources.resources
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\obj\Debug\Bodega.csproj.GenerateResource.cache
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\obj\Debug\Bodega.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\obj\Debug\Bodega.csproj.CopyComplete
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\obj\Debug\Bodega.exe
+C:\Users\javie\OneDrive\Escritorio\AVANCE ITERACION 2\Bodega\Bodega\obj\Debug\Bodega.pdb
+C:\Users\Kyor\Desktop\Bodega\Bodega\bin\Debug\Bodega.exe.config
+C:\Users\Kyor\Desktop\Bodega\Bodega\bin\Debug\Bodega.exe
+C:\Users\Kyor\Desktop\Bodega\Bodega\bin\Debug\Bodega.pdb
+C:\Users\Kyor\Desktop\Bodega\Bodega\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kyor\Desktop\Bodega\Bodega\bin\Debug\itextsharp.dll
+C:\Users\Kyor\Desktop\Bodega\Bodega\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kyor\Desktop\Bodega\Bodega\bin\Debug\System.Buffers.dll
+C:\Users\Kyor\Desktop\Bodega\Bodega\bin\Debug\System.ValueTuple.dll
+C:\Users\Kyor\Desktop\Bodega\Bodega\bin\Debug\itextsharp.xml
+C:\Users\Kyor\Desktop\Bodega\Bodega\obj\Debug\Bodega.csproj.AssemblyReference.cache
+C:\Users\Kyor\Desktop\Bodega\Bodega\obj\Debug\Bodega.exe.config
+C:\Users\Kyor\Desktop\Bodega\Bodega\obj\Debug\Bodega.Bodeguero.resources
+C:\Users\Kyor\Desktop\Bodega\Bodega\obj\Debug\Bodega.Finanzas.resources
+C:\Users\Kyor\Desktop\Bodega\Bodega\obj\Debug\Bodega.Form1.resources
+C:\Users\Kyor\Desktop\Bodega\Bodega\obj\Debug\Bodega.Properties.Resources.resources
+C:\Users\Kyor\Desktop\Bodega\Bodega\obj\Debug\Bodega.csproj.GenerateResource.cache
+C:\Users\Kyor\Desktop\Bodega\Bodega\obj\Debug\Bodega.csproj.CoreCompileInputs.cache
+C:\Users\Kyor\Desktop\Bodega\Bodega\obj\Debug\Bodega.csproj.CopyComplete
+C:\Users\Kyor\Desktop\Bodega\Bodega\obj\Debug\Bodega.exe
+C:\Users\Kyor\Desktop\Bodega\Bodega\obj\Debug\Bodega.pdb
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\bin\Debug\Bodega.exe.config
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\bin\Debug\Bodega.exe
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\bin\Debug\Bodega.pdb
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\bin\Debug\itextsharp.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\bin\Debug\System.Buffers.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\bin\Debug\System.ValueTuple.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\bin\Debug\itextsharp.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.exe.config
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.Bodeguero.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.Finanzas.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.Form1.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.Properties.Resources.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.csproj.GenerateResource.cache
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.csproj.CopyComplete
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.exe
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.pdb
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\bin\Debug\System.Memory.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\bin\Debug\System.Text.Json.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3\App de escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.csproj.SuggestedBindingRedirects.cache
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\bin\Debug\Bodega.exe.config
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\bin\Debug\Bodega.exe
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\bin\Debug\Bodega.pdb
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\bin\Debug\itextsharp.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\bin\Debug\System.Buffers.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\bin\Debug\System.ValueTuple.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\bin\Debug\itextsharp.xml
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.exe.config
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.Bodeguero.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.Finanzas.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.Form1.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.Properties.Resources.resources
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.csproj.GenerateResource.cache
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.csproj.CopyComplete
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.exe
+C:\Users\javie\OneDrive\Escritorio\ITERACION 3 Grupo 4\Sistema\Aplicación de Escritorio\Bodega - Finanzas\Bodega\obj\Debug\Bodega.pdb

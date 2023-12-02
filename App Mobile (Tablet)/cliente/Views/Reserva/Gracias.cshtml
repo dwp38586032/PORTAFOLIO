@@ -1,0 +1,31 @@
+﻿@model EstadoPedidoViewModel
+
+<head>
+    <link rel="stylesheet" href="~/css/estado.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+</head>
+
+<div class="estado-pedido-container">
+    <h2>Gracias por su pedido</h2>
+    <div class="pedido-items">
+        <h3>Ítems del Pedido</h3>
+        <ul>
+            @{
+                decimal subtotal = Model.Items.Sum(item => item.Precio);
+                decimal iva = subtotal * 0.19m; 
+                decimal total = subtotal + iva + Model.Propina; 
+            }
+            @foreach (var item in Model.Items)
+            {
+                    <li>@item.Nombre - @item.Precio.ToString("C")</li>
+            }
+            <li>Propina: @(Model.Propina.ToString("C"))</li>
+            <li>IVA (19%): @iva.ToString("C")</li>
+            <li>Monto Total: @total.ToString("C")</li>
+        </ul>
+    </div>
+
+    <div>
+        <a href="@Url.Action("Index", "Plato")">Volver a la página principal</a>
+    </div>
+</div>

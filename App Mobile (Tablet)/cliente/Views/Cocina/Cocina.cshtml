@@ -1,0 +1,35 @@
+﻿@model List<OrdenPedidoViewModel>
+@{
+    ViewData["Title"] = "Pedidos en Cocina";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/cocina.css" />
+</head>
+
+<h2>Pedidos Activos en Cocina</h2>
+
+<div class="pedidos-container">
+    @foreach (var pedido in Model)
+    {
+            <div class="pedido-card" id="pedido-@pedido.Id">
+                <h3 class="pedido-id">Pedido #@pedido.Id</h3>
+                <p class="pedido-contenido"><strong>Contenido:</strong> @pedido.Contenido</p>
+                <p class="pedido-estado" id="estado-@pedido.Id"><strong>Estado:</strong> @pedido.Estado</p>
+                <div class="progress-bar">
+                    <div class="progress-bar-fill" style="width: @pedido.GetProgressValue()%;"></div>
+                </div>
+                <div class="pedido-actions">
+    <button class="btn btn-primary" data-id="@pedido.Id" data-update-url="@Url.Action("ActualizarEstado", "Cocina", new { id = pedido.Id })" onclick="actualizarPedido(this)">Actualizar</button>
+    <button class="btn btn-secondary" data-id="@pedido.Id" data-revert-url="@Url.Action("RevertirEstado", "Cocina", new { id = pedido.Id })" onclick="revertirPedido(this)">Revertir</button>
+
+                </div>
+            </div>
+    }
+</div>
+
+@section Scripts {
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="~/js/cocina.js" asp-append-version="true"></script>
+}
+
